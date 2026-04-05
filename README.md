@@ -123,10 +123,10 @@ Model (Logistic / Random Forest)
 * Accuracy: ~84%
 * Poor recall for `>50K`
 ## 📊 Pipeline Architecture
-![Pipeline](![alt text](images/image.png))
+![Pipeline](images/image.png)
 
 ## 📈 Model Performance
-![Results](![alt text](images/image-1.png))
+![Results](images/image-1.png)
 
 ---
 
@@ -135,10 +135,10 @@ Model (Logistic / Random Forest)
 * Accuracy: ~80%
 * Recall (>50K): **0.83** (significant improvement)
 ## 📊 Pipeline Architecture
-![Pipeline](![alt text](images/image-2.png))
+![Pipeline](images/image-2.png)
 
 ## 📈 Model Performance
-![Results](![alt text](images/image-3.png))
+![Results](images/image-3.png)
 ---
 
 ### 🔹 Random Forest (Final Model)
@@ -147,10 +147,10 @@ Model (Logistic / Random Forest)
 * Recall (>50K): ~0.62
 * Balanced overall performance
 ## 📊 Pipeline Architecture
-![Pipeline](![alt text](images/image-4.png))
+![Pipeline](images/image-4.png)
 
 ## 📈 Model Performance
-![Results](![alt text](images/image-5.png))
+![Results](images/image-5.png)
 ---
 
 ## 📈 Evaluation Metrics
